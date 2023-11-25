@@ -16,7 +16,7 @@ This is a Python script that uses the GPT-3.5 model to paraphrase input text. It
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/NoorMahammad-S/text-paraphrasing-tool.git
+   git clone https://github.com/NoorMahammad-S/Text_Paraphrasing_Tool_using_Transformers.git
    ```
 
 2. Change into the project directory:
