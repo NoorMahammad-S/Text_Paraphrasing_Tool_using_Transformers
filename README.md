@@ -1,3 +1,5 @@
+# ```                AI & NLP Project                ```
+
 # Text Paraphrasing Tool using Transformers
 
 This is a Python script that uses the GPT-3.5 model to paraphrase input text. It leverages the Hugging Face `transformers` library for easy integration with the GPT-3.5 model.
